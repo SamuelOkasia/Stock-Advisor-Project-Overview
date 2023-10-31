@@ -5,7 +5,7 @@ Welcome to the Stock Advisor project! This comprehensive solution is broken down
 ## Repositories:
 
 ### [Stock Advisor Backend](https://github.com/SamuelOkasia/stock_advisor_server)
-- Description: This repository contains all backend-related code and functionalities for the MarketPlace project.
+- Description: This repository contains all backend-related code and functionalities for the Stock Advisor project.
 - Technologies: Flask, Python, flask_cors, SQLAlchemy, yfinance, sklearn, numpy
 
 ### [Stock Advisor Frontend](https://github.com/SamuelOkasia/stock_advisor_client)
